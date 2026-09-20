@@ -1,0 +1,8 @@
+Django==6.1
+djangorestframework
+drf-spectacular
+django-filter
+gunicorn
+whitenoise
+Pillow
+psycopg2-binary
