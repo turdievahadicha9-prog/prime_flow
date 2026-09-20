@@ -1,8 +1,5 @@
+asgiref==3.12.1
 Django==6.1
-djangorestframework
-drf-spectacular
-django-filter
-gunicorn
-whitenoise
-Pillow
-psycopg2-binary
+djangorestframework==3.18.0
+pillow==12.3.0
+sqlparse==0.6.0
